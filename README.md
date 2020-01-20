@@ -1,6 +1,8 @@
 # TableRowWithDetail
 Laravel Nova tool package TableRowWithDetail (VueJS)
 
+![](image_2020_01_20T19_48_48_070Z.png)
+
 # Installation
 
 You can install the package via composer:
