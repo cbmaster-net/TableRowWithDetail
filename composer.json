@@ -1,0 +1,29 @@
+{
+    "name": "cbmaster-net/table-row-with-detail",
+    "description": "Laravel Nova tool package TableRowWithDetail (VueJS)",
+    "keywords": [
+        "laravel",
+        "nova"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "CbmasterNet\\TableRowWithDetail\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "CbmasterNet\\TableRowWithDetail\\ToolServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
