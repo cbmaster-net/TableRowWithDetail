@@ -1,12 +1,12 @@
 <?php
 
-namespace Cbmaster-net\TableRowWithDetail;
+namespace CbmasterNet\TableRowWithDetail;
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\ServiceProvider;
 use Laravel\Nova\Events\ServingNova;
 use Laravel\Nova\Nova;
-use Cbmaster-net\TableRowWithDetail\Http\Middleware\Authorize;
+use CbmasterNet\TableRowWithDetail\Http\Middleware\Authorize;
 
 class ToolServiceProvider extends ServiceProvider
 {
